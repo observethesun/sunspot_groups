@@ -3,7 +3,7 @@
 
 ## Sunspot groups
 
-This repository contains the dataset of sunspot groups, sunspot parametrization model and latent vectors. With these data one can reproduce the results presented in the paper [Parametrization of sunspot groups based on machine learning approach]().
+This repository contains the dataset of sunspot groups, sunspot parametrization model and latent vectors. With these data one can reproduce the results presented in the paper [Parametrization of sunspot groups based on machine learning approach](https://link.springer.com/article/10.1007/s11207-022-01955-0).
 
 ### Installation
 
@@ -31,5 +31,5 @@ To save disk space, some files are archived in `zip` format.
 ### Citing this work
 
 ```
-Illarionov E., Tlatov A. 2021. Parametrization of sunspot groups based on machine learning approach.
+Illarionov, E., Tlatov, A. Parametrization of Sunspot Groups Based on Machine-Learning Approach. Sol Phys 297, 19 (2022). https://doi.org/10.1007/s11207-022-01955-0
 ```
