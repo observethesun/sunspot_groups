@@ -5,6 +5,11 @@
 
 This repository contains the dataset of sunspot groups, sunspot parametrization model and latent vectors. With these data one can reproduce the results presented in the paper [Parametrization of sunspot groups based on machine learning approach](https://link.springer.com/article/10.1007/s11207-022-01955-0).
 
+### Demo
+
+Online demo with the sunspot parametrization model is available at
+[https://sun.njit.edu/sunspots](https://sun.njit.edu/sunspots)
+
 ### Installation
 
 Clone the repository with its submodules
