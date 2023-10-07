@@ -25,11 +25,11 @@ In addition, file [sunspot_group_properties.csv](./sunspot_group_properties.csv)
 * date - date and time of observation
 * group_number - sunspot group number
 * lat_max - maximal heliographic latitude of sunspot group pixels
-* lat_min - minimal heliographic latitude of sunspot group pixels
 * lat_mean - mean heliographic latitude of the sunspot group
+* lat_min - minimal heliographic latitude of sunspot group pixels
 * long_max - maximal Carrington longitude of sunspot group pixels
-* long_min - minimal Carrington longitude of sunspot group pixels
 * long_mean - mean Carrington longitude of the sunspot group
+* long_min - minimal Carrington longitude of sunspot group pixels
 * area - sunspot group area in MSH (millionth of the solar hemisphere)
 * nspots - total number of spots and pores in the sunspot group
 * ncores - number of cores in the sunspot group
